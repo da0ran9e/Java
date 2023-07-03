@@ -8,6 +8,7 @@ public class Main {
         boolean validInput = false;
 
         // Prompt user for month and year until valid input is provided
+
         do {
             System.out.print("Enter a month (1-12): ");
             month = input.nextInt();
